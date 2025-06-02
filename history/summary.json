@@ -4,7 +4,7 @@
     "url": "https://www.corenet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.corenet.xyz.ico",
     "slug": "corenet-uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
@@ -13,7 +13,7 @@
     "time": 603,
     "timeDay": 79,
     "timeWeek": 364,
-    "timeMonth": 610,
+    "timeMonth": 615,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2025-05-31": 42,
