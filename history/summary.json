@@ -4,19 +4,19 @@
     "url": "https://www.corenet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.corenet.xyz.ico",
     "slug": "corenet-uptime",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "79.04%",
-    "uptimeWeek": "91.96%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "99.27%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "78.37%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.28%",
     "time": 568,
-    "timeDay": 274,
+    "timeDay": 276,
     "timeWeek": 269,
     "timeMonth": 280,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-06-20": 149,
+      "2025-06-20": 178,
       "2025-06-19": 426,
       "2025-06-18": 218,
       "2025-06-17": 18,
@@ -58,8 +58,7 @@
       "2025-04-25": 117,
       "2025-04-24": 30,
       "2025-04-22": 47,
-      "2025-04-21": 54,
-      "2025-04-20": 60
+      "2025-04-21": 54
     }
   }
 ]
