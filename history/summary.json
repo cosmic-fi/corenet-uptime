@@ -6,17 +6,17 @@
     "slug": "corenet-uptime",
     "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "67.33%",
-    "uptimeWeek": "69.04%",
+    "uptimeDay": "65.85%",
+    "uptimeWeek": "68.83%",
     "uptimeMonth": "90.84%",
     "uptimeYear": "99.04%",
     "time": 534,
     "timeDay": 471,
-    "timeWeek": 377,
-    "timeMonth": 342,
+    "timeWeek": 376,
+    "timeMonth": 343,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-06-28": 242,
+      "2025-06-28": 263,
       "2025-06-27": 458,
       "2025-06-26": 463,
       "2025-06-25": 431,
@@ -25,7 +25,7 @@
       "2025-06-22": 459,
       "2025-06-21": 549,
       "2025-06-20": 356,
-      "2025-06-19": 212
+      "2025-06-19": 190
     }
   }
 ]
